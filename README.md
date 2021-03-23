@@ -40,8 +40,8 @@
 1. 创建项目
 
 
-- ![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
-- ![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
+- 传统创建项目 ![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
+- 平台创建项目 ![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
 
 2. 创建接口
