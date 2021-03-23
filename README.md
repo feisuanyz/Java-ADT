@@ -38,18 +38,24 @@
 ---------------------------------------
 
 #### 1 创建项目
-- 传统创建项目 <br>![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
-- 平台创建项目 <br>![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
+- 传统创建项目 <br>需要下载基础包和搭建框架。<br> <br>
+![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
+- 平台创建项目 <br>能快速创建微服务项目。<br> <br>
+![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
 
 #### 2 创建接口
-- 传统创建接口 <br>![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
-- 平台创建接口 <br>![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
+- 传统创建接口 <br>除了需要手写代码创建接口后，还需要关联各个参数之间关联关系等等。<br> <br>
+![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
+- 平台创建接口 <br>创建接口只要配置好参数字段即可，其他事情交给平台来完成。<br> <br>
+![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
 
 
 #### 3 生成数据
-- 传统生成数据 <br>![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
-- 平台生成数据 <br>![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
+- 传统生成数据 <br>需要手敲代码将一个一个表进行关联起来，过程很繁琐等。<br> <br>
+![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
+- 平台生成数据 <br>连接数据后，可一键生成基础的接口和常用的SQL语句，例如：增删改查、分页查询等。<br> <br>
+![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
 
 
 #### 4 业务开发 
