@@ -63,8 +63,10 @@
 
 
 #### 6 高效调试
-- 传统高效调试 <br>![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
-- 平台高效调试 <br>![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
+- 传统代码调试 <br>传统的开发模式需要启动调试模式逐行运行，调试进度慢，调试过程参数查看不方便，逻辑执行不清晰。 <br>
+![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
+- 平台高效调试 <br>全自动开发平台定义接口参数并运行，即可查看调试结果及参数，可视化调试结果，快速定位问题，告别Debug逐行调试定位问题。<br>
+![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
 
 
 <br>
