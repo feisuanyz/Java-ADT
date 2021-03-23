@@ -53,19 +53,23 @@
 
 
 #### 4 业务开发 
-- 传统业务开发 <br>![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
-- 平台业务开发 <br>![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
+- 传统业务开发 <br>需要较强技术开发专业性，且技术能力不同项目质量也存在高低不同。<br> <br>
+![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
+- 平台业务开发 <br>等同于编写复杂代码的业务逻辑，且业务逻辑清晰、灵活、维护性较强。<br> <br>
+![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
 
 
 #### 5 快速测试
-- 传统快速测试 <br>![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
-- 平台快速测试 <br>![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
+- 传统快速测试 <br>传统的开发模式编写测试用例逻辑代码增加开发测试成本，同时维护业务逻辑代码及测试用例代码。<br> <br>
+![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
+- 平台快速测试 <br>SoFlu全自动开发平台快速创建测试用例，灵活的参数配置，定义不同测试场景并执行查看返回结果。<br> <br>
+![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
 
 
 #### 6 高效调试
-- 传统代码调试 <br>传统的开发模式需要启动调试模式逐行运行，调试进度慢，调试过程参数查看不方便，逻辑执行不清晰。 <br>
+- 传统代码调试 <br>传统的开发模式需要启动调试模式逐行运行，调试进度慢，调试过程参数查看不方便，逻辑执行不清晰。 <br> <br>
 ![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
-- 平台高效调试 <br>全自动开发平台定义接口参数并运行，即可查看调试结果及参数，可视化调试结果，快速定位问题，告别Debug逐行调试定位问题。<br>
+- 平台高效调试 <br>SoFlu全自动开发平台定义接口参数并运行，即可查看调试结果及参数，可视化调试结果，快速定位问题，告别Debug逐行调试定位问题。<br> <br>
 ![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
 
 
