@@ -36,7 +36,23 @@
 
 **SoFlu全自动开发平台与传统项目开发对比**
 ---------------------------------------
+![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
+![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
+![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
+![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
+
+![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
+![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
+
+![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
+![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
+
+![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
+![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
+
+![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
+![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
 
 
 
