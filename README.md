@@ -11,7 +11,7 @@
 公司介绍
 -----------------------------------
 
-前海飞算云智软件技术（深圳）有限公司（简称：飞算云智），致力于通过“软件工程变革”全面提升企业的软件工程能力, 为企业和个人开发者提供“SoFlu全自动软件工程平台”服务。“软件工程”涵盖“项目管理”、“智能开发”、“自动化测试”、“质量管理”、“自动化运维”等核心板块，彻底带来行业三大变革：
+**前海飞算云智软件技术（深圳）有限公司（简称：飞算云智）**，致力于通过“软件工程变革”全面提升企业的软件工程能力, 为企业和个人开发者提供“**SoFlu全自动软件工程平台**”服务。“软件工程”涵盖“项目管理”、“智能开发”、“自动化测试”、“质量管理”、“自动化运维”等核心板块，彻底带来行业三大变革：
 1. 效率随全生命周期核心板块联动呈数十倍提高；成本随项目规模上升呈几何级缩减。
 2. “软件工程知识共享体系”， 构建开放共赢的生态体系，通过平台经验分享形成共享知识库，提升主动学习能力，并打破碎片化知识获取形式，彻底改变现有的软件工程学习体系；
 3. “软件开发全流程保障”， 突破局限于软件功能、特性的高质量，实现软件系统从开发至交付的全流程高质量保障体系。
@@ -36,21 +36,34 @@
 
 **SoFlu全自动开发平台与传统项目开发对比**
 ---------------------------------------
+
+1. 创建项目
+
 ![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
 ![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
+
+2. 创建接口
 ![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
 ![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
 
+
+3. 生成数据
 ![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
 ![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
 
+
+4. 业务开发 
 ![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
 ![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
 
+
+5. 快速测试
 ![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
 ![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
 
+
+6.高效调试
 ![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
 ![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
 
