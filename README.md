@@ -50,10 +50,10 @@
 ![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
 
 
-#### 3 生成数据
-- 传统生成数据 <br>需要手敲代码将一个一个表进行关联起来，过程很繁琐等。<br> <br>
+#### 3 开发接口
+- 传统开发接口 <br>需要手敲代码将一个一个表进行关联起来，过程很繁琐等。<br> <br>
 ![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
-- 平台生成数据 <br>连接数据后，可一键生成基础的接口和常用的SQL语句，例如：增删改查、分页查询等。<br> <br>
+- 平台接口生成器 <br>连接数据后，可一键生成基础的接口和常用的SQL语句，例如：增删改查、分页查询等。<br> <br>
 ![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
 
 
