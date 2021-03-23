@@ -39,33 +39,36 @@
 
 1. 创建项目
 
-![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
-![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
+
+- ![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
+- ![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
 
 2. 创建接口
-![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
-![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
+- ![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
+- ![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
 
 
 3. 生成数据
-![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
-![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
+- ![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
+- ![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
 
 
 4. 业务开发 
-![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
-![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
+
+- ![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
+- ![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
 
 
 5. 快速测试
-![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
-![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
+- ![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
+- ![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
+
 
 
 6.高效调试
-![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
-![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
+- ![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
+- ![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
 
 
 
