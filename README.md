@@ -38,41 +38,35 @@
 ---------------------------------------
 
 1. 创建项目
-
-
+2. 
 - 传统创建项目 ![传统创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.oldCreateProject.gif)
 - 平台创建项目 ![平台创建项目](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/01.newCreateProject.gif)
 
-<br>
 
 2. 创建接口
 - 传统创建接口 ![传统创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.oldCreateInterface.gif)
 - 平台创建接口 ![平台创建接口](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/02.newCreateInterface.gif)
 
-<br>
 
 3. 生成数据
 - 传统生成数据 ![传统生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.oldGenerateData.gif)
 - 平台生成数据 ![平台生成数据](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/03.newGenerateData.gif)
 
-<br>
 
 4. 业务开发 
-
 - 传统业务开发 ![传统业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.oldBusinessDev.gif)
 - 平台业务开发 ![平台业务开发](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/04.newBusinessDev.gif)
 
-<br>
 
 5. 快速测试
 - 传统快速测试 ![传统快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.oldQuickTest.gif)
 - 平台快速测试 ![平台快速测试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/05.newQuickTest.gif)
 
-<br>
 
-6.高效调试
+6. 高效调试
 - 传统高效调试 ![传统高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.oldDeBug.gif)
 - 平台高效调试 ![平台高效调试](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/06.newDeBug.gif)
+
 
 
 
