@@ -1,5 +1,5 @@
 
-![SoFlu全自动软件工程平台](https://github.com/feisuanyz/SoFlu-adp/blob/2dc1216b87b08aaa14f0e69d3df17df09d221367/images/SoFlu.png)
+![SoFlu全自动软件工程平台](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/SoFluapd.png)
 
 **SoFlu全自动软件工程平台**
                  ——SoFlu全自动开发平台，十人可抵百人用
