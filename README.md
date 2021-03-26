@@ -113,7 +113,7 @@
 
 **技术文档**
 -----------------------------------
-- 社区版：[社区版入口](https://orp.feisuanyz.com)
+- 社 区 版：[社区版入口](https://orp.feisuanyz.com)
 - 技术文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
 - 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
 
