@@ -117,8 +117,8 @@
 
 **交流互动**
 -----------------------------------
-- 交流群：[请扫二维码，加入企业微信群交流]
-
+- 交流群：[请扫二维码，加入企业微信群交流]<br>
+![交流互动群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/interaction.png) <br>
 - 反馈文档：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
 - 参与开源：[欢迎加入SoFlu全自动开发平台开源团队，共同进步！](orp.feisuanyz.com)
 
