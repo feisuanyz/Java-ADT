@@ -8,6 +8,8 @@
 
 ============================================================================
 
+当前最新版本：[待更新]（发布日期：2021-03-26）
+
 公司介绍
 -----------------------------------
 
@@ -112,6 +114,7 @@
 **技术文档**
 -----------------------------------
 - 技术官网：[飞算云智](https://www.feisuanyz.com)
+- 社区版入口：[社区版](https://orp.feisuanyz.com)
 - 技术文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
 - 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
 
@@ -120,5 +123,5 @@
 - 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
 ![交流互动群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/interaction.png) <br><br>
 - 反馈文档：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
-- 参与开源：[欢迎加入SoFlu全自动开发平台开源团队，共同进步！](orp.feisuanyz.com)
+- 参与开源：欢迎加入SoFlu全自动开发平台开源团队，共同进步！
 
