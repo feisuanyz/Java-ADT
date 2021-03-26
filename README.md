@@ -108,3 +108,17 @@
 - 降低了开发门槛
 - 人力成本节约50%
 - 项目周期缩短6倍以上 
+
+**技术文档**
+-----------------------------------
+- 技术官网：[飞算云智](https://www.feisuanyz.com)
+- 技术文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
+- 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
+
+**交流互动**
+-----------------------------------
+- 交流群：[请扫二维码，加入企业微信群交流]
+
+- 反馈文档：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
+- 参与开源：[欢迎加入SoFlu全自动开发平台开源团队，共同进步！](orp.feisuanyz.com)
+
