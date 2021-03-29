@@ -121,6 +121,6 @@
 -----------------------------------
 - 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
 ![交流互动群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/interaction.png) <br><br>
-- 反馈文档：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
+- 反馈问题：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
 - 参与开源：欢迎加入SoFlu全自动开发平台开源团队，共同进步！
 
