@@ -120,7 +120,7 @@
 **交流互动**
 -----------------------------------
 - 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
-![交流互动群](https://orp.feisuanyz.com/img/weixin_enterprise_qrcode.2e14e558.png) <br><br>
+![交流互动群](https://orp.feisuanyz.com//img/weixin_enterprise_qrcode.8ed6d9b5.png) <br><br>
 - 问题反馈：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
 - 参与开源：欢迎加入SoFlu全自动开发平台开源团队，共同进步！
 
