@@ -113,9 +113,7 @@
 
 **技术文档**
 -----------------------------------
-- 社区版入口：[Local客户端下载](https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip)
-- 部署Local客户端操作指导，请参见(https://feisuanyz.com/support/helpCenter/ 全自动开发平台 / 快速入门 / 1本地客户端 / 1.1 安装本地客户端)
-
+- 社区版入口：[Local客户端下载](https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip)，部署Local客户端操作指导，请参见(https://feisuanyz.com/support/helpCenter/ 全自动开发平台 / 快速入门 / 1本地客户端 / 1.1 安装本地客户端)
 - 产品文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
 - 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
 
