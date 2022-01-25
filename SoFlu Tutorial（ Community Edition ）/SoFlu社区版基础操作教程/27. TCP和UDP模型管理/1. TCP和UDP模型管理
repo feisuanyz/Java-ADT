@@ -129,3 +129,15 @@ h）单击“上线模型”，如图1-18所示：
 ![1-18](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_7.png)
 
 ##### 图1-18 上线模型
+
+i）上线成功，UDP模型图标变成绿色打勾，如图1-19所示：
+
+![1-19](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_8.png)
+
+##### 图1-19 上线成功
+
+j）对UDP模型接口进行测试用例，如图1-20所示：
+
+![1-20](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_9.png)
+
+##### 图1-20 选择测试用例
