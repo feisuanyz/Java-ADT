@@ -67,3 +67,15 @@ j）对TCP模型接口进行测试用例，如图1-9所示：
 ##### 图1-9 选择测试用例
 
 k）勾选测试用例，单击“执行”，如图1-10所示：
+
+![1-10](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_10.png)
+
+##### 图1-10 点击执行
+
+l）TCP模型接口执行成功，如图1-11所示：
+
+![1-11](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_11.png)
+
+##### 图1-11 执行测试用例
+
+#### 1.2 新增TCP模型接口
