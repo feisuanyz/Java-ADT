@@ -45,3 +45,13 @@ g）退出窗格视图，单击“提交”后的三个点按钮，选择“发�
 ![1-6](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_6.png)
 
 ##### 图1-6 提交发布模型
+
+h）单击“上线模型”，如图1-7所示：
+
+![1-7](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_7.png)
+
+##### 图1-7 上线模型
+
+##### 注意：TCP模型发布后必须上线模型，端口才能生效，否则无法使用。
+
+i）上线成功，TCP模型图标变成绿色打勾，如图1-8所示：
