@@ -90,3 +90,18 @@ a）进入全自动开发平台，选择对应项目进入功能模块界面。
 
 b）单击“TCP/UDP模型管理 > 新增TCP/UDP模型”，如图1-12所示：
 
+![1-12](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_1.png)
+
+##### 图1-12 TCP/UDP模型管理
+
+c）配置模型的基本信息，协议选择“UDP协议”，单击“下一步”，如图1-13所示：
+
+![1-13](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_2.png)
+
+##### 图1-13 配置UDP模型的基本信息
+
+d）根据实际需求配置入口参数，单击“提交”，如图1-14所示：
+
+![1-14](https://www.feisuanyz.com/fsimage/zc-image/28tcp/udp_3.png)
+
+##### 图1-14 配置入口参数
