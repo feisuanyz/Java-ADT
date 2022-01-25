@@ -55,3 +55,15 @@ h）单击“上线模型”，如图1-7所示：
 ##### 注意：TCP模型发布后必须上线模型，端口才能生效，否则无法使用。
 
 i）上线成功，TCP模型图标变成绿色打勾，如图1-8所示：
+
+![1-8](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_8.png)
+
+##### 图1-8 上线成功
+
+j）对TCP模型接口进行测试用例，如图1-9所示：
+
+![1-9](https://www.feisuanyz.com/fsimage/zc-image/28tcp/tcp_9.png)
+
+##### 图1-9 选择测试用例
+
+k）勾选测试用例，单击“执行”，如图1-10所示：
