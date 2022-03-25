@@ -1,4 +1,4 @@
-### SoFlu社区产品及社群入口
+### 必读3：SoFlu社区产品及社群入口
 
 #### 社区版（当前仅为后端全自动开发平台）
 
@@ -12,4 +12,4 @@
 
 #### 问题反馈
 
-请在Issues专栏反馈问题：https://gitee.com/feisuanyz/SoFlu-adp/issues
+请在Issues专栏反馈问题：https://github.com/feisuanyz/SoFlu-adp/issues
