@@ -27,3 +27,11 @@ d）如何使用Mock数据模型
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fa96a5b4f81840008a8e0bf&videoTypeId=5fa8eb277087fb000831dbf7
 
 e）如何使用测试用例测试接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5faba4e149f1b500087afdc4&videoTypeId=5fa8eb277087fb000831dbf7
+
+f）如何使用仿真测试
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfcdd49f1b500087b69e6&videoTypeId=5fa8eb277087fb000831dbf7
+
+g）如何配置输出结果类型
