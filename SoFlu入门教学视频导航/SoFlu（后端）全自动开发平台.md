@@ -77,3 +77,19 @@ f）如何配置Http通信资源
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac008149f1b500087b6cb4&videoTypeId=5fa8eb2d7087fb000831dc12
 
 g）如何配置Kafka生产者资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac01cf49f1b500087b6e84&videoTypeId=5fa8eb2d7087fb000831dc12
+
+h）如何配置Kafka消费者资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac021f49f1b500087b700b&videoTypeId=5fa8eb2d7087fb000831dc12
+
+i）如何配置Redis缓存资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac026949f1b500087b7067&videoTypeId=5fa8eb2d7087fb000831dc12
+
+j）如何配置Minio存储资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac02c649f1b500087b70e7&videoTypeId=5fa8eb2d7087fb000831dc12
+
+k）如何配置SFTP存储资源
