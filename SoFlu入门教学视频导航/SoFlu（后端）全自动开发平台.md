@@ -67,3 +67,13 @@ c）如何配置嵌入式中间件
 d）如何配置线程池资源
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabffed49f1b500087b6c2c&videoTypeId=5fa8eb2d7087fb000831dc12
+
+e）如何配置MongoDB数据库资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac004a49f1b500087b6c70&videoTypeId=5fa8eb2d7087fb000831dc12
+
+f）如何配置Http通信资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac008149f1b500087b6cb4&videoTypeId=5fa8eb2d7087fb000831dc12
+
+g）如何配置Kafka生产者资源
