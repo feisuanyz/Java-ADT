@@ -121,3 +121,15 @@ p）如何配置Elasticsearch的组件流程日志
 a）如何连接数据库
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac044549f1b500087b72dc&videoTypeId=5fac040649f1b500087b7271
+
+b）如何创建数据库表
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac046e49f1b500087b7322&videoTypeId=5fac040649f1b500087b7271
+
+c）如何同步数据库版本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac049749f1b500087b7368&videoTypeId=5fac040649f1b500087b7271
+
+d）如何进行数据库逆向解析
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac04cb49f1b500087b73ae&videoTypeId=5fac040649f1b500087b7271
