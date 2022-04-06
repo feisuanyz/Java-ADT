@@ -107,3 +107,17 @@ m）如何新增实体模型
 n）如何新增第三方Python脚本
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62217008a75a8d0008f91106&videoTypeId=5fa8eb2d7087fb000831dc12
+
+o）如何新增子流程
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6221701ba75a8d0008f91112&videoTypeId=5fa8eb2d7087fb000831dc12
+
+p）如何配置Elasticsearch的组件流程日志
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=60adb74c4cc0ed0008d15a8b&videoTypeId=5fa8eb2d7087fb000831dc12
+
+#### 1.4 数据库管理
+
+a）如何连接数据库
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac044549f1b500087b72dc&videoTypeId=5fac040649f1b500087b7271
