@@ -35,3 +35,13 @@ f）如何使用仿真测试
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfcdd49f1b500087b69e6&videoTypeId=5fa8eb277087fb000831dbf7
 
 g）如何配置输出结果类型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfd4249f1b500087b6a50&videoTypeId=5fa8eb277087fb000831dbf7
+
+h）如何使用接口的可视化日志
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfd8349f1b500087b6a96&videoTypeId=5fa8eb277087fb000831dbf7
+
+i）如何进行项目发版
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfdeb49f1b500087b6ae6&videoTypeId=5fa8eb277087fb000831dbf7
