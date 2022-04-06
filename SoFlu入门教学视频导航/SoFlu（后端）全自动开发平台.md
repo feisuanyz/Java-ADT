@@ -45,3 +45,15 @@ h）如何使用接口的可视化日志
 i）如何进行项目发版
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfdeb49f1b500087b6ae6&videoTypeId=5fa8eb277087fb000831dbf7
+
+j）如何进行项目部署
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fd186df272ea90008762df2&videoTypeId=5fa8eb277087fb000831dbf7
+
+#### 1.3 项目资源
+
+a）如何在流程变量中使用配置项
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfe1f49f1b500087b6b2c&videoTypeId=5fa8eb2d7087fb000831dc12
+
+b）如何配置分布式中间件
