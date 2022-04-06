@@ -93,3 +93,17 @@ j）如何配置Minio存储资源
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac02c649f1b500087b70e7&videoTypeId=5fa8eb2d7087fb000831dc12
 
 k）如何配置SFTP存储资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac032a49f1b500087b7137&videoTypeId=5fa8eb2d7087fb000831dc12
+
+l）如何配置Xeos存储资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac037949f1b500087b719f&videoTypeId=5fa8eb2d7087fb000831dc12
+
+m）如何新增实体模型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62216feba75a8d0008f910f4&videoTypeId=5fa8eb2d7087fb000831dc12
+
+n）如何新增第三方Python脚本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62217008a75a8d0008f91106&videoTypeId=5fa8eb2d7087fb000831dc12
