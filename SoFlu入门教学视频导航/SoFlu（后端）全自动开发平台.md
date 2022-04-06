@@ -57,3 +57,13 @@ a）如何在流程变量中使用配置项
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfe1f49f1b500087b6b2c&videoTypeId=5fa8eb2d7087fb000831dc12
 
 b）如何配置分布式中间件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfe5a49f1b500087b6b7c&videoTypeId=5fa8eb2d7087fb000831dc12
+
+c）如何配置嵌入式中间件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabff6c49f1b500087b6bc2&videoTypeId=5fa8eb2d7087fb000831dc12
+
+d）如何配置线程池资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabffed49f1b500087b6c2c&videoTypeId=5fa8eb2d7087fb000831dc12
