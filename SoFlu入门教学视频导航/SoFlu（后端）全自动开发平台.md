@@ -161,3 +161,5 @@ f）如何新增SQL删除数据信息
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5facecaa54b7f00008a229ba&videoTypeId=5fac041049f1b500087b728c
 
 g）如何新增SQL分段信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fad1b9854b7f00008a2688c&videoTypeId=5fac041049f1b500087b728c
