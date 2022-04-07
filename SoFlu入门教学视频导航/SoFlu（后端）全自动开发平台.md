@@ -143,3 +143,11 @@ a）如何新增SQL组
 b）如何新增SQL插入数据信息
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac051e49f1b500087b7442&videoTypeId=5fac041049f1b500087b728c
+
+c）如何新增SQL更新数据信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5faca5dc49f1b500087ba9b7&videoTypeId=5fac041049f1b500087b728c
+
+d）如何新增SQL普通查询数据信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5face1f154b7f00008a21c4e&videoTypeId=5fac041049f1b500087b728c
