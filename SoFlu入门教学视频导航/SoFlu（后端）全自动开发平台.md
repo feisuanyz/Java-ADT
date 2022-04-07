@@ -177,3 +177,7 @@ a）如何使用互斥条件组件
 b）如何使用并行条件组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fb2297f31ac30000952b3ce&videoTypeId=5fae403f7b4763000839b222
+
+c）如何使用包容性条件组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fb229da31ac30000952b6e5&videoTypeId=5fae403f7b4763000839b222
