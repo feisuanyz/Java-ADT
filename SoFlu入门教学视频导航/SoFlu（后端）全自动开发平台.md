@@ -233,3 +233,11 @@ g）如何使用子流程组件
 h）如何使用子流程批量处理组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7d5531ac300009576d36&videoTypeId=5fbf74e731ac300009575944
+
+i）如何使用计数器组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7d8f31ac300009576d97&videoTypeId=5fbf74e731ac300009575944
+
+j）异常处理
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7dc331ac300009576df8&videoTypeId=5fbf74e731ac300009575944
