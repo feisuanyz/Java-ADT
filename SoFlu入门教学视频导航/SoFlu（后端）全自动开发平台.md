@@ -191,3 +191,11 @@ a）如何使用单SQL组件
 b）如何使用多SQL组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf786a31ac30000957607b&videoTypeId=5fbf74ae31ac300009575881
+
+c）如何使用分页SQL组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7a5d31ac300009576682&videoTypeId=5fbf74ae31ac300009575881
+
+d）如何使用事务组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7aad31ac300009576738&videoTypeId=5fbf74ae31ac300009575881
