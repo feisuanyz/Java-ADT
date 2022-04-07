@@ -34,6 +34,16 @@ f）如何使用仿真测试
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfcdd49f1b500087b69e6&videoTypeId=5fa8eb277087fb000831dbf7
 
+#### 1.9 文件组件
+
+a）如何使用导出Excel组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7df831ac300009576e59&videoTypeId=5fbf74df31ac30000957591f
+
+b）如何使用数据导出Excel组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7e2e31ac300009576eba&videoTypeId=5fbf74df31ac30000957591f
+
 g）如何配置输出结果类型
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fabfd4249f1b500087b6a50&videoTypeId=5fa8eb277087fb000831dbf7
