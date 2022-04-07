@@ -181,3 +181,13 @@ b）如何使用并行条件组件
 c）如何使用包容性条件组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fb229da31ac30000952b6e5&videoTypeId=5fae403f7b4763000839b222
+
+#### 1.7 SQL组件
+
+a）如何使用单SQL组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf782431ac300009575f9d&videoTypeId=5fbf74ae31ac300009575881
+
+b）如何使用多SQL组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf786a31ac30000957607b&videoTypeId=5fbf74ae31ac300009575881
