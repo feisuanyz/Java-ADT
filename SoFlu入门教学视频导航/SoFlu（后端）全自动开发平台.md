@@ -199,3 +199,17 @@ c）如何使用分页SQL组件
 d）如何使用事务组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7aad31ac300009576738&videoTypeId=5fbf74ae31ac300009575881
+
+#### 1.8 工具组件
+
+a）如何使用输出结果组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7b8831ac300009576977&videoTypeId=5fbf74e731ac300009575944
+
+b）如何使用赋值组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7bc031ac3000095769d8&videoTypeId=5fbf74e731ac300009575944
+
+c）如何使用解压组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7bfd31ac300009576a5b&videoTypeId=5fbf74e731ac300009575944
