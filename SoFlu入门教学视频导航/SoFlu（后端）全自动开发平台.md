@@ -251,3 +251,13 @@ i）如何使用计数器组件
 j）异常处理
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7dc331ac300009576df8&videoTypeId=5fbf74e731ac300009575944
+
+#### 1.9 文件组件
+
+a）如何使用导出Excel组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7df831ac300009576e59&videoTypeId=5fbf74df31ac30000957591f
+
+b）如何使用数据导出Excel组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7e2e31ac300009576eba&videoTypeId=5fbf74df31ac30000957591f
