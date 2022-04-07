@@ -133,3 +133,13 @@ c）如何同步数据库版本
 d）如何进行数据库逆向解析
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac04cb49f1b500087b73ae&videoTypeId=5fac040649f1b500087b7271
+
+#### 1.5 SQL管理
+
+a）如何新增SQL组
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac04fb49f1b500087b73fe&videoTypeId=5fac041049f1b500087b728c
+
+b）如何新增SQL插入数据信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac051e49f1b500087b7442&videoTypeId=5fac041049f1b500087b728c
