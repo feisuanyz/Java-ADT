@@ -163,3 +163,17 @@ f）如何新增SQL删除数据信息
 g）如何新增SQL分段信息
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fad1b9854b7f00008a2688c&videoTypeId=5fac041049f1b500087b728c
+
+h）如何使用接口生成器生成SQL
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fad3cd454b7f00008a29cf5&videoTypeId=5fac041049f1b500087b728c
+
+#### 1.6 条件组件
+
+a）如何使用互斥条件组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fae40bf7b4763000839b3c8&videoTypeId=5fae403f7b4763000839b222
+
+b）如何使用并行条件组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fb2297f31ac30000952b3ce&videoTypeId=5fae403f7b4763000839b222
