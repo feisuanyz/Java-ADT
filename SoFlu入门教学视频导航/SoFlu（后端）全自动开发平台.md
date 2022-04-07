@@ -221,3 +221,15 @@ d）如何使用单函数组件
 e）如何使用多函数组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7c6d31ac300009576b2e&videoTypeId=5fbf74e731ac300009575944
+
+f）如何使用多函数组件返回多个结果
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7c9631ac300009576bb1&videoTypeId=5fbf74e731ac300009575944
+
+g）如何使用子流程组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7d1531ac300009576cd5&videoTypeId=5fbf74e731ac300009575944
+
+h）如何使用子流程批量处理组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7d5531ac300009576d36&videoTypeId=5fbf74e731ac300009575944
