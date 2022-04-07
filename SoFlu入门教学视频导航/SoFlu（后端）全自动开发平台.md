@@ -213,3 +213,11 @@ b）如何使用赋值组件
 c）如何使用解压组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7bfd31ac300009576a5b&videoTypeId=5fbf74e731ac300009575944
+
+d）如何使用单函数组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7c3c31ac300009576acd&videoTypeId=5fbf74e731ac300009575944
+
+e）如何使用多函数组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7c6d31ac300009576b2e&videoTypeId=5fbf74e731ac300009575944
