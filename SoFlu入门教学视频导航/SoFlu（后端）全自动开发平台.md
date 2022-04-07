@@ -151,3 +151,13 @@ c）如何新增SQL更新数据信息
 d）如何新增SQL普通查询数据信息
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5face1f154b7f00008a21c4e&videoTypeId=5fac041049f1b500087b728c
+
+e）如何新增SQL分页查询数据信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5face90a54b7f00008a22309&videoTypeId=5fac041049f1b500087b728c
+
+f）如何新增SQL删除数据信息
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5facecaa54b7f00008a229ba&videoTypeId=5fac041049f1b500087b728c
+
+g）如何新增SQL分段信息
