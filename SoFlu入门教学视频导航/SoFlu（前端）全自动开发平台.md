@@ -21,3 +21,13 @@ d）如何创建表单
 #### 1.2 应用管理
 
 a）如何导出应用
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277c9d3676920008f45112&videoTypeId=62277be54e86ad00081bafcd
+
+b）如何导入应用
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277cb43676920008f4511b&videoTypeId=62277be54e86ad00081bafcd
+
+c）如何进行应用部署
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277ccc4e86ad00081baff9&videoTypeId=62277be54e86ad00081bafcd
