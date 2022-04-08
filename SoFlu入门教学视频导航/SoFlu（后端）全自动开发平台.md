@@ -387,3 +387,15 @@ b）如何复制实体模型
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=611f6735a6ae5700088f72eb&videoTypeId=611e270fa6ae5700088f6fb9
 
 c）如何导入实体模型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611f677fa6ae5700088f72ff&videoTypeId=611e270fa6ae5700088f6fb9
+
+d）如何导出实体模型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611f67b2a6ae5700088f7313&videoTypeId=611e270fa6ae5700088f6fb9
+
+#### 1.20 第三方脚本
+
+a）如何新增第三方Python脚本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac03e349f1b500087b7233&videoTypeId=611e2720a75a8d0008f67e84
