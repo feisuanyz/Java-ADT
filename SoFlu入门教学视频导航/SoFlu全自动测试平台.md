@@ -9,3 +9,17 @@ a）新增项目
 b）项目授权
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f034e86ad00081bfe10&videoTypeId=6237d0944e86ad00081bf9fa
+
+c）新增环境变量
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f144e86ad00081bfe19&videoTypeId=6237d0944e86ad00081bf9fa
+
+d）接口证书
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f213676920008f49efd&videoTypeId=6237d0944e86ad00081bf9fa
+
+#### 1.2 系统配置
+
+a）新增资源池_资源
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f394e86ad00081bfe28&videoTypeId=6237d09f4e86ad00081bfa01
