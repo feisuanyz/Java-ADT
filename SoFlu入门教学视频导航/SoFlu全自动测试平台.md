@@ -107,3 +107,15 @@ d）新增变量集
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820b54e86ad00081bfec8&videoTypeId=6237d0e24e86ad00081bfa4a
 
 #### 1.6 测试场景
+
+a）新增测试场景
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820c74e86ad00081bfed1&videoTypeId=6237d0ec4e86ad00081bfa54
+
+b）使用浏览器录制插件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820d43676920008f49f80&videoTypeId=6237d0ec4e86ad00081bfa54
+
+c）关联接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820e64e86ad00081bfee0&videoTypeId=6237d0ec4e86ad00081bfa54
