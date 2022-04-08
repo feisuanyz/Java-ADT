@@ -321,3 +321,17 @@ a）如何使用HTTP组件
 b）如何使用请求响应参数管理组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=60f538f7a75a8d0008f5f151&videoTypeId=5fbf750c31ac300009575a1c
+
+#### 1.14 脚本语言组件
+
+a）如何使用第三方脚本组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf804640db8f0008f2326e&videoTypeId=5fbf751a31ac300009575a41
+
+#### 1.15 拦截器
+
+a）如何使用拦截器（上）
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=60dbd3fdafc2280008236159&videoTypeId=60dbd39dafc2280008236135
+
+b）如何使用拦截器（下）
