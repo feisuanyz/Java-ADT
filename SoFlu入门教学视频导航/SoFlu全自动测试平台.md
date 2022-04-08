@@ -83,3 +83,15 @@ c）如何关联全自动开发平台的项目
 d）如何回滚历史版本
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820694e86ad00081bfea1&videoTypeId=6237d0d64e86ad00081bfa40
+
+e）如何导入Swagger接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820703676920008f49f50&videoTypeId=6237d0d64e86ad00081bfa40
+
+#### 1.5 数据集管理
+
+a）新增数据源连接
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238208b4e86ad00081bfeb0&videoTypeId=6237d0e24e86ad00081bfa4a
+
+b）新增SQL数据集
