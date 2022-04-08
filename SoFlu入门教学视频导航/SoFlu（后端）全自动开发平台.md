@@ -277,3 +277,11 @@ e）如何使用Minio上传组件
 f）如何使用Minio下载组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7efe31ac300009577082&videoTypeId=5fbf74df31ac30000957591f
+
+g）如何使用XEOS上传组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7efe31ac300009577082&videoTypeId=5fbf74df31ac30000957591f
+
+h）如何使用XEOS下载组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=609e39c1bf8ccc0008a32560&videoTypeId=5fbf74df31ac30000957591f
