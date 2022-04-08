@@ -269,3 +269,11 @@ c）如何使用SFTP上传组件
 d）如何使用SFTP下载组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7e9431ac300009576f9e&videoTypeId=5fbf74df31ac30000957591f
+
+e）如何使用Minio上传组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7ec931ac300009577021&videoTypeId=5fbf74df31ac30000957591f
+
+f）如何使用Minio下载组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7efe31ac300009577082&videoTypeId=5fbf74df31ac30000957591f
