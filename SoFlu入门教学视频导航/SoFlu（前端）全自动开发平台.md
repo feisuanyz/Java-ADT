@@ -41,3 +41,15 @@ d）如何进行应用授权
 a）如何给控件绑定动作
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277d103676920008f45133&videoTypeId=62277bf14e86ad00081bafd4
+
+b）如何给页面绑定动作
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277d2a4e86ad00081bb005&videoTypeId=62277bf14e86ad00081bafd4
+
+c）如何进行页面自定义设计与配置
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277d393676920008f45142&videoTypeId=62277bf14e86ad00081bafd4
+
+d）如何快速构建一个前端应用项目
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277d4e3676920008f4514b&videoTypeId=62277bf14e86ad00081bafd4
