@@ -421,3 +421,11 @@ a）如何新增定时任务
 b）如何复制定时任务
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=612750c6a75a8d0008f697b0&videoTypeId=611e29caa6ae5700088f6fda
+
+c）如何导入定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=612750eba75a8d0008f697b9&videoTypeId=611e29caa6ae5700088f6fda
+
+d）如何导出定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6127510ea75a8d0008f697c2&videoTypeId=611e29caa6ae5700088f6fda
