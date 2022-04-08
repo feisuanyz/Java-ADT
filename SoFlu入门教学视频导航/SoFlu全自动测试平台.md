@@ -145,3 +145,15 @@ h）回滚历史版本
 a）新增性能测试
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821364e86ad00081bff16&videoTypeId=6237d0f94e86ad00081bfa5e
+
+b）配置测试用例并发数
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821434e86ad00081bff1f&videoTypeId=6237d0f94e86ad00081bfa5e
+
+c）配置分布式性能测试
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821443676920008f49fac&videoTypeId=6237d0f94e86ad00081bfa5e
+
+d）执行性能测试
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238215f4e86ad00081bff2e&videoTypeId=6237d0f94e86ad00081bfa5e
