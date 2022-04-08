@@ -119,3 +119,15 @@ b）使用浏览器录制插件
 c）关联接口
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820e64e86ad00081bfee0&videoTypeId=6237d0ec4e86ad00081bfa54
+
+d）数据集中取值
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820f34e86ad00081bfee9&videoTypeId=6237d0ec4e86ad00081bfa54
+
+e）从接口响应的数据提取值
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820f83676920008f49f94&videoTypeId=6237d0ec4e86ad00081bfa54
+
+f）断言接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238210f4e86ad00081bfef8&videoTypeId=6237d0ec4e86ad00081bfa54
