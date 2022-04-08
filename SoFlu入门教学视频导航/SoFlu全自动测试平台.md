@@ -23,3 +23,15 @@ d）接口证书
 a）新增资源池_资源
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f394e86ad00081bfe28&videoTypeId=6237d09f4e86ad00081bfa01
+
+b）新增消息模版
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f654e86ad00081bfe38&videoTypeId=6237d09f4e86ad00081bfa01
+
+c）配置邮件通知
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f754e86ad00081bfe41&videoTypeId=6237d09f4e86ad00081bfa01
+
+d）创建缺陷
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f843676920008f49f0e&videoTypeId=6237d09f4e86ad00081bfa01
