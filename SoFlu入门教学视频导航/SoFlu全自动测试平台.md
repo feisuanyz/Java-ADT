@@ -47,3 +47,15 @@ a）如何新增测试用例
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381faa4e86ad00081bfe59&videoTypeId=6237d0cb4e86ad00081bfa0e
 
 b）如何使用脑图
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381fbf3676920008f49f1a&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+c）如何使用缺陷
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381fd64e86ad00081bfe68&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+d）如何评审用例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381fe74e86ad00081bfe71&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+e）如何评论用例
