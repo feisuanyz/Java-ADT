@@ -349,3 +349,17 @@ a）如何使用初始化器
 a）如何新增子流程
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=609dea9ad99a7f00081c56a1&videoTypeId=611e266ea75a8d0008f67e55
+
+b）如何复制子流程
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e27d2a75a8d0008f67ebf&videoTypeId=611e266ea75a8d0008f67e55
+
+c）如何导入子流程
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e27ffa75a8d0008f67ed3&videoTypeId=611e266ea75a8d0008f67e55
+
+d）如何导出子流程
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e2824a75a8d0008f67ee7&videoTypeId=611e266ea75a8d0008f67e55
+
+#### 1.18 资源实例
