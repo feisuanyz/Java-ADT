@@ -71,3 +71,15 @@ f）如何回滚历史版本
 a）如何新增接口
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238203f4e86ad00081bfe89&videoTypeId=6237d0d64e86ad00081bfa40
+
+b）如何测试接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238204b3676920008f49f38&videoTypeId=6237d0d64e86ad00081bfa40
+
+c）如何关联全自动开发平台的项目
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238205d4e86ad00081bfe98&videoTypeId=6237d0d64e86ad00081bfa40
+
+d）如何回滚历史版本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820694e86ad00081bfea1&videoTypeId=6237d0d64e86ad00081bfa40
