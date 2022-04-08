@@ -9,3 +9,15 @@ a）如何创建表单数据分组
 b）如何创建数据库连接
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277c553676920008f45103&videoTypeId=62277bd94e86ad00081bafc6
+
+c）如何进行表单设计与配置
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277c834e86ad00081bafed&videoTypeId=62277bd94e86ad00081bafc6
+
+d）如何创建表单
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381e573676920008f49eae&videoTypeId=62277bd94e86ad00081bafc6
+
+#### 1.2 应用管理
+
+a）如何导出应用
