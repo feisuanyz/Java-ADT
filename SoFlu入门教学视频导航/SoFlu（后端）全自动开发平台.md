@@ -285,3 +285,17 @@ g）如何使用XEOS上传组件
 h）如何使用XEOS下载组件
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=609e39c1bf8ccc0008a32560&videoTypeId=5fbf74df31ac30000957591f
+
+i）如何使用获取上传文件组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=609e39dbbf8ccc0008a32571&videoTypeId=5fbf74df31ac30000957591f
+
+#### 1.10 数据库组件
+
+a）如何使用MongoDB组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7f6631ac30000957722a&videoTypeId=5fbf74ef31ac300009575969
+
+#### 1.11 缓存组件
+
+a）如何使用Redis组件
