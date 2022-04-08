@@ -335,3 +335,17 @@ a）如何使用拦截器（上）
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=60dbd3fdafc2280008236159&videoTypeId=60dbd39dafc2280008236135
 
 b）如何使用拦截器（下）
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=60dbd43aafc2280008236170&videoTypeId=60dbd39dafc2280008236135
+
+#### 1.16 初始化器
+
+a）如何使用初始化器
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=60dbd475afc2280008236190&videoTypeId=60dbd3a6afc228000823613f
+
+#### 1.17 子流程管理
+
+a）如何新增子流程
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=609dea9ad99a7f00081c56a1&videoTypeId=611e266ea75a8d0008f67e55
