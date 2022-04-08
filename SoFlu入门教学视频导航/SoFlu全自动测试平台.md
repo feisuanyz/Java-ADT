@@ -171,3 +171,15 @@ f）导出性能测试报告
 a）新增测试计划
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238218f4e86ad00081bff49&videoTypeId=6237d1224e86ad00081bfa7b
+
+b）精准回归计划
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238219c4e86ad00081bff52&videoTypeId=6237d1224e86ad00081bfa7b
+
+c）关联测试用例和性能测试
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821a43676920008f49fc7&videoTypeId=6237d1224e86ad00081bfa7b
+
+d）设置测试计划定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821b44e86ad00081bff61&videoTypeId=6237d1224e86ad00081bfa7b
