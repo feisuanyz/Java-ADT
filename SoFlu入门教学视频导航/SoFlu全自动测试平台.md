@@ -157,3 +157,17 @@ c）配置分布式性能测试
 d）执行性能测试
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238215f4e86ad00081bff2e&videoTypeId=6237d0f94e86ad00081bfa5e
+
+e）开启定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238216d4e86ad00081bff3a&videoTypeId=6237d0f94e86ad00081bfa5e
+
+f）导出性能测试报告
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821793676920008f49fbb&videoTypeId=6237d0f94e86ad00081bfa5e
+
+#### 1.8 测试计划
+
+a）新增测试计划
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238218f4e86ad00081bff49&videoTypeId=6237d1224e86ad00081bfa7b
