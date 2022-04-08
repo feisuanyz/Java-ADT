@@ -95,3 +95,15 @@ a）新增数据源连接
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238208b4e86ad00081bfeb0&videoTypeId=6237d0e24e86ad00081bfa4a
 
 b）新增SQL数据集
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820964e86ad00081bfeb9&videoTypeId=6237d0e24e86ad00081bfa4a
+
+c）新增excel数据集
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238209d3676920008f49f68&videoTypeId=6237d0e24e86ad00081bfa4a
+
+d）新增变量集
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623820b54e86ad00081bfec8&videoTypeId=6237d0e24e86ad00081bfa4a
+
+#### 1.6 测试场景
