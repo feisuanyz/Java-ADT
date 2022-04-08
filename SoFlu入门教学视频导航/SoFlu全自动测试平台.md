@@ -183,3 +183,7 @@ c）关联测试用例和性能测试
 d）设置测试计划定时任务
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821b44e86ad00081bff61&videoTypeId=6237d1224e86ad00081bfa7b
+
+e）导出测试计划报告
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821be4e86ad00081bff6a&videoTypeId=6237d1224e86ad00081bfa7b
