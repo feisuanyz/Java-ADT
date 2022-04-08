@@ -309,3 +309,15 @@ a）如何使用Kafka生产者组件
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7fc631ac30000957730e&videoTypeId=5fbf74fe31ac3000095759c4
 
 b）如何使用Kafka消费者组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7fe240db8f0008f231a6&videoTypeId=5fbf74fe31ac3000095759c4
+
+#### 1.13 通信组件
+
+a）如何使用HTTP组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf800f40db8f0008f23207&videoTypeId=5fbf750c31ac300009575a1c
+
+b）如何使用请求响应参数管理组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=60f538f7a75a8d0008f5f151&videoTypeId=5fbf750c31ac300009575a1c
