@@ -35,3 +35,15 @@ c）配置邮件通知
 d）创建缺陷
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f843676920008f49f0e&videoTypeId=6237d09f4e86ad00081bfa01
+
+e）导入自定义函数
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381f954e86ad00081bfe50&videoTypeId=6237d09f4e86ad00081bfa01
+
+#### 1.3 测试用例
+
+a）如何新增测试用例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381faa4e86ad00081bfe59&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+b）如何使用脑图
