@@ -411,3 +411,13 @@ c）如何导入第三方脚本
 d）如何导出第三方脚本
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=61371842a75a8d0008f6b8da&videoTypeId=611e2720a75a8d0008f67e84
+
+#### 1.21 定时任务
+
+a）如何新增定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=61275095a75a8d0008f697a7&videoTypeId=611e29caa6ae5700088f6fda
+
+b）如何复制定时任务
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=612750c6a75a8d0008f697b0&videoTypeId=611e29caa6ae5700088f6fda
