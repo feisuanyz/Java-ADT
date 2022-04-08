@@ -375,3 +375,15 @@ b）如何导入资源实例
 c）如何导出资源实例
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e28f3a75a8d0008f67f47&videoTypeId=611e267ca75a8d0008f67e5f
+
+#### 1.19 实体模型
+
+a）如何新增实体模型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac03b549f1b500087b71ef&videoTypeId=611e270fa6ae5700088f6fb9
+
+b）如何复制实体模型
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611f6735a6ae5700088f72eb&videoTypeId=611e270fa6ae5700088f6fb9
+
+c）如何导入实体模型
