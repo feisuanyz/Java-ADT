@@ -299,3 +299,13 @@ a）如何使用MongoDB组件
 #### 1.11 缓存组件
 
 a）如何使用Redis组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7f9331ac30000957728b&videoTypeId=5fbf74f731ac30000957598e
+
+#### 1.12 消息队列组件
+
+a）如何使用Kafka生产者组件
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fbf7fc631ac30000957730e&videoTypeId=5fbf74fe31ac3000095759c4
+
+b）如何使用Kafka消费者组件
