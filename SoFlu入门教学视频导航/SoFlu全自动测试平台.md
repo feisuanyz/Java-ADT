@@ -59,3 +59,15 @@ d）如何评审用例
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381fe74e86ad00081bfe71&videoTypeId=6237d0cb4e86ad00081bfa0e
 
 e）如何评论用例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62381ff33676920008f49f2c&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+f）如何回滚历史版本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238201a4e86ad00081bfe80&videoTypeId=6237d0cb4e86ad00081bfa0e
+
+#### 1.4 接口管理
+
+a）如何新增接口
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238203f4e86ad00081bfe89&videoTypeId=6237d0d64e86ad00081bfa40
