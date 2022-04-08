@@ -399,3 +399,15 @@ d）如何导出实体模型
 a）如何新增第三方Python脚本
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=5fac03e349f1b500087b7233&videoTypeId=611e2720a75a8d0008f67e84
+
+b）如何复制第三方脚本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=613717e6a75a8d0008f6b8af&videoTypeId=611e2720a75a8d0008f67e84
+
+c）如何导入第三方脚本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=61371814a75a8d0008f6b8c3&videoTypeId=611e2720a75a8d0008f67e84
+
+d）如何导出第三方脚本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=61371842a75a8d0008f6b8da&videoTypeId=611e2720a75a8d0008f67e84
