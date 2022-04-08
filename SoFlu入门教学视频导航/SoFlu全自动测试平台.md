@@ -131,3 +131,17 @@ e）从接口响应的数据提取值
 f）断言接口
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238210f4e86ad00081bfef8&videoTypeId=6237d0ec4e86ad00081bfa54
+
+g）执行测试场景
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238211a4e86ad00081bff01&videoTypeId=6237d0ec4e86ad00081bfa54
+
+h）回滚历史版本
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=6238211c3676920008f49fa0&videoTypeId=6237d0ec4e86ad00081bfa54
+
+#### 1.7 性能测试
+
+a）新增性能测试
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=623821364e86ad00081bff16&videoTypeId=6237d0f94e86ad00081bfa5e
