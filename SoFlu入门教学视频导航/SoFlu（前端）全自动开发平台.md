@@ -31,3 +31,13 @@ b）如何导入应用
 c）如何进行应用部署
 
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277ccc4e86ad00081baff9&videoTypeId=62277be54e86ad00081bafcd
+
+d）如何进行应用授权
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277cf53676920008f4512a&videoTypeId=62277be54e86ad00081bafcd
+
+#### 1.3 主要功能
+
+a）如何给控件绑定动作
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=62277d103676920008f45133&videoTypeId=62277bf14e86ad00081bafd4
