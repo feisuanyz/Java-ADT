@@ -363,3 +363,15 @@ d）如何导出子流程
 链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e2824a75a8d0008f67ee7&videoTypeId=611e266ea75a8d0008f67e55
 
 #### 1.18 资源实例
+
+a）如何复制资源实例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e289da75a8d0008f67f1c&videoTypeId=611e267ca75a8d0008f67e5f
+
+b）如何导入资源实例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e28cba75a8d0008f67f30&videoTypeId=611e267ca75a8d0008f67e5f
+
+c）如何导出资源实例
+
+链接：https://www.feisuanyz.com/shortVideo/detail/?id=611e28f3a75a8d0008f67f47&videoTypeId=611e267ca75a8d0008f67e5f
