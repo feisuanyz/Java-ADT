@@ -8,7 +8,7 @@
 
 请扫下方二维码，加入企业微信群交流
 
-![开发者社群](images/QRCode.PNG)<br><br>
+![开发者社群](https://gitee.com/feisuanyz/SoFlu-adp/raw/master/images/QRCode.PNG)<br><br>
 
 #### 问题反馈
 
