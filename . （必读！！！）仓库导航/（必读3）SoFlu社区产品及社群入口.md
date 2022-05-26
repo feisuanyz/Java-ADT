@@ -12,4 +12,4 @@
 
 #### 问题反馈
 
-请在Issues专栏反馈问题：https://gitee.com/feisuanyz/SoFlu-adp/issues
+请在Issues专栏反馈问题：https://github.com/feisuanyz/SoFlu-adp/issues
