@@ -1,8 +1,12 @@
-SoFlu社区产品及社群入口
+SoFlu产品及社群入口
 
 #### 社区版（当前仅为后端全自动开发平台）
 
 请下载[本地客户端](https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip)或登陆链接 https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip
+
+#### 商业版
+
+请登陆飞算SoFlu官网 https://www.feisuanyz.com 申请试用。
 
 #### 交流群
 
