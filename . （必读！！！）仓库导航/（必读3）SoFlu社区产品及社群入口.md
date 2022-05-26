@@ -4,6 +4,10 @@
 
 请下载[本地客户端](https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip)或登陆链接 https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip
 
+#### 商业版
+
+请登陆飞算SoFlu官网 https://www.feisuanyz.com 申请试用。
+
 #### 交流群
 
 请扫下方二维码，加入企业微信群交流
