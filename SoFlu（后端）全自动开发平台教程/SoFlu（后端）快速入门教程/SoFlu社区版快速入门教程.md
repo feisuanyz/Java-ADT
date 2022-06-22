@@ -19,13 +19,14 @@ a）解压下载的本地客户端引擎包
 
 b）双击` startup.bat `运行启动本地客户端，如图1-1所示：
 
-![1-1](https://images.gitee.com/uploads/images/2021/0903/143047_56d322cc_8721401.png "3.png")
+![image](https://user-images.githubusercontent.com/79617492/174986315-fb4534c0-24b0-47b5-8421-f01cba052b25.png)
 
 ##### 图1-1 启动本地客户端服务器
  
 c）启动后，系统会自动生成` log_info.log `日志文件，出现如图1-2所示日志信息，说明本地客户端启动成功。
 
-![1-2](https://images.gitee.com/uploads/images/2021/0903/143202_f97267a3_8721401.png "4.png")
+![image](https://user-images.githubusercontent.com/79617492/174986372-42bdb6c8-1045-4679-bf68-9653f4d4b89c.png)
+
 ##### 图1-2 查看日志信息
  
 说明：本地客户端默认不需要配置任何内容，启动端口默认为` 8080 `，日志文件默认存储到当前安装包目录下面的` logs `文件夹中（若安装包为` feisuanyz-local-engine-1.0.3 `，则日志生成路径是` feisuanyz-local-engine-1.0.3/logs `）。
@@ -65,12 +66,14 @@ fs:
 
 a）上传本地客户端引擎包至目标服务器并解压、添加执行脚本执行权限，执行` startup.sh `启动本地客户端，如图1-3所示：
 
-![1-3](https://images.gitee.com/uploads/images/2021/0903/143418_e12bf6a3_8721401.png "5.png")
+![image](https://user-images.githubusercontent.com/79617492/174986421-5c40c7f4-216c-463f-bcc4-863482f72a54.png)
+
 ##### 图1-3 启动客户端服务器
  
 b）系统日志输出如图1-4所示，说明本地客户端启动成功：
 
-![1-4](https://images.gitee.com/uploads/images/2021/0903/143511_ba291cdd_8721401.png "6.png")
+![image](https://user-images.githubusercontent.com/79617492/174986430-24b3928c-0495-4718-a60e-16dde79d1600.png)
+
 ##### 图1-4 查看日志信息
  
 ### 3. 社区版注册与登录
