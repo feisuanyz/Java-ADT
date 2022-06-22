@@ -77,18 +77,21 @@ b）系统日志输出如图1-4所示，说明本地客户端启动成功：
 ##### 图1-4 查看日志信息
  
 ### 3. 社区版注册与登录
+
 下载并启动好本地客户端之后，便可以进行社区版的注册。
 
 #### 3.1 操作步骤
 
 a）如图2-1所示，打开浏览器，在地址栏中输入“ http://服务器地址:服务端口 ”（例如输入 http://10.10.10.11:8080 ），并按“Enter”键，进入社区版登录页面。注意“服务器地址”为当前部署Local客户端的服务器IP地址；“端口”默认为` 8080 `，若为自定义端口，请填写自定义端口。
 
-![2-1](https://images.gitee.com/uploads/images/2021/0903/143724_c0d3af25_8721401.png "7.png")
+![image](https://user-images.githubusercontent.com/79617492/174987374-f410880f-662f-472b-88d3-74f2431e9767.png)
+
 ##### 图2-1 社区版登录页面
  
 b）单击“免费注册”，系统显示会员注册页面，如图2-2所示：
 
-![2-2](https://images.gitee.com/uploads/images/2021/0903/143829_4441a487_8721401.png "8.png")
+![image](https://user-images.githubusercontent.com/79617492/174987668-b88f46be-e0c5-421a-a3f0-4fde89913bf4.png)
+
 ##### 图2-2 会员注册页面
  
 c）请根据实际情况填写注册的基本信息。
@@ -97,17 +100,20 @@ d）滑动滚动条验证通过后，选中“阅读并同意”按钮。
 
 e）单击“同意条款并注册”，如图2-3所示：
 
-![2-3](https://images.gitee.com/uploads/images/2021/0903/143919_593bb2aa_8721401.png "9.png")
+![image](https://user-images.githubusercontent.com/79617492/174987696-22e7088e-8f7f-4292-a384-38bbb378225f.png)
+
 ##### 图2-3 输入注册用户信息
  
 f）输入注册手机号的验证码，单击“确认”，如图2-4所示：
 
-![2-4](https://images.gitee.com/uploads/images/2021/0903/144010_d1224c95_8721401.png "10.png")
+![image](https://user-images.githubusercontent.com/79617492/174987727-9942ffbf-f718-46bc-8363-648c93e6f02a.png)
+
 ##### 图2-4 输入验证码页面
  
 g）输入注册用户名和密码，单击“登录”，如图2-5所示：
 
-![2-5](https://images.gitee.com/uploads/images/2021/0903/144102_e8896057_8721401.png "11.png")
+![image](https://user-images.githubusercontent.com/79617492/174987793-2b399094-d655-4858-8fc7-478c92ef39fe.png)
+
 ##### 图2-5 登录社区版页面
  
 ### 4. 基本操作指引
