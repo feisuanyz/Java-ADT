@@ -36,7 +36,7 @@ d）若需修改端口、日志存放路径配置，您需要创建一个` appli
 server:
  # 服务端口
 port: 8080
-
+ 
 # 系统日志配置
 logging:
     file:
