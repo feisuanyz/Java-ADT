@@ -5,12 +5,35 @@ Java全自动开发工具
 
 历史版本客户端及安装配置说明，请查阅[《客户端下载资源及安装说明》](https://github.com/feisuanyz/Java-Adp/tree/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E%20)
 
-特色功能：慧函数（Java FuncGPT）
+特色功能1：WEBIDE
 -----------------------------------
 
-用户可通过自然语言生成高质量、高可读性的Java函数代码。
+#### a）Java FuncGPT（慧函数）
 
-![image](https://github.com/feisuanyz/SoFlu-adp/assets/79617492/e34fc414-987c-4426-bd92-a765c3f9f365)
+通过自然语言描述Java函数需求，实时生成高质量、高可读性的Java函数代码。生成代码可直接复制到IDEA，或一键导入Java全自动开发工具函数库。
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/44a841b3-c3d6-4130-9ff6-1d94825cac86)
+
+#### b）组件拖拽实时出码
+
+组件拖拽实时生成代码，所见即所得，清晰洞察业务流程和代码实现。
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/44ff263e-9125-4e87-afe1-295414f209ca)
+
+特色功能2：人机交互
+-----------------------------------
+
+#### a）智能答疑
+
+根据用户需求描述智能匹配对应教程或解决方案，覆盖10万+主要教学场景，提供教学引导、视频和图文多种教学内容，消除用户上手门槛。
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/2fa8d326-93bd-475e-9243-59f66d322485)
+
+#### b）教学引导
+
+视频式引导操作，区别于普通视频，用户观看完视频即在账号内生成对应的项目，所见即所得。
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/d1179335-42ab-44fe-93df-6364fab14520)
 
 ===============================================
 
