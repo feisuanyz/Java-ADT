@@ -3,6 +3,15 @@ Java全自动开发工具
 
 最新版本客户端：[点此下载](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_3.0.65.exe)。
 
+安装环境配置要求：
+
+| 类别       | 要求             |
+|----------|----------------|
+| 操作系统     | Windows 10 64位 |
+| CPU      | 推荐 i5 以上       |
+| 运行内存     | 推荐 8 G 以上      |
+| 软件安装磁盘容量 | 至少5 GB 容量以上    |
+
 历史版本客户端及安装配置说明，请查阅[《客户端下载资源及安装说明》](https://github.com/feisuanyz/Java-Adp/blob/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E%20/Java%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)
 
 特色功能1：WEBIDE
