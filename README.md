@@ -1,7 +1,7 @@
 Java全自动开发工具
 -----------------------------------
 
-最新版本客户端：[点此下载](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_3.0.65.exe)。
+最新版本客户端：[点此下载](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe)。
 
 安装环境配置要求：
 
