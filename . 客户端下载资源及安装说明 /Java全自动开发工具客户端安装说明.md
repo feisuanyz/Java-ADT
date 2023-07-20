@@ -52,3 +52,17 @@ b）已检查到端口占用的情况
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/d2528f3e-a6a4-4691-9da1-679e226d88de)
  
 c）执行完成后，重新启动Java全自动开发工具。
+
+2.端口占用的解决方法
+
+启动过程如遇到如下错误：
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/1888f15d-e2d9-4740-9fe6-f692f5b41864)
+
+a）点击“退出应用”，关闭客户端。
+
+b）请执行 set_ports.bat 文件，依次输入端口号。
+
+![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/e738c705-fa13-4dd8-ac0d-75c63d345566)
+
+c）重新启动客户端。
