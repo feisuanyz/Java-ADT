@@ -1,5 +1,18 @@
 ### Installation Instruction
 
+Installation Environment
+-----------------------------------
+
+| Category       | Requirement         |
+|----------|----------------|
+| Operating System    | Windows 7 and above 64-bit |
+| CPU      | i5 or above(Recommended)   |
+| RAM     |  8 GB or above(Recommended)    |
+| Disk | 5 GB or above    |
+
+Installation and Update
+-----------------------------------
+
 #### 1.Installation Option
 
 a） It is recommended to select: Install for me only.
