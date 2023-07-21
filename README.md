@@ -12,7 +12,7 @@ Installation Environment：
 | RAM     |  8 GB or above(Recommended)    |
 | Disk | 5 GB or above    |
 
-For previous client versions and installation instructions, please refer to [client resources and installation instruction](https://github.com/feisuanyz/Java-Adp/blob/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E%20/Java%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)
+For previous client versions and installation instructions, please refer to [Installation Resource](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource)
 
 Feature 1：WEBIDE
 -----------------------------------
@@ -88,12 +88,12 @@ c）Restart client.
 
 **Official Document**
 -----------------------------------
-- Product：[Tutorial](https://feisuanyz.com/support/helpCenter/)
-- Video：[Video](https://feisuanyz.com/shortVideo/list/)
+- Product：[Text Tutorial](https://feisuanyz.com/support/helpCenter/)
+- Video：[Video Tutorial](https://feisuanyz.com/shortVideo/list/)
 
 **Community**
 -----------------------------------
-- Wechat Group：**Scan QR Code Below** <br><br>
+- Join us in Wechat Group
 ![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
 - Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
 - Welcome to SoFlu community to make Java better!
