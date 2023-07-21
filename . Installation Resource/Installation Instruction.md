@@ -49,15 +49,3 @@ b）Use [set_ports.bat](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Inst
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/64f7fd71-6e09-40c8-9167-dd707faaa764)
 
 c）Restart client.
-
-**Official Document**
------------------------------------
-- Product：[Text Tutorial](https://feisuanyz.com/support/helpCenter/)
-- Video：[Video Tutorial](https://feisuanyz.com/shortVideo/list/)
-
-**Community**
------------------------------------
-- Join us in Wechat Group
-![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
-- Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
-- Welcome to SoFlu community to make Java better!
