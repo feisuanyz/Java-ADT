@@ -5,7 +5,7 @@ Latest Client：[download](https://download.feisuanyz.com/release-java/SoFlu_Jav
 
 Installation Environment：
 
-| Category       | Requirements         |
+| Category       | Requirement         |
 |----------|----------------|
 | Operating System    | Windows 7 and above 64-bit |
 | CPU      | i5 or above(Recommended)   |
