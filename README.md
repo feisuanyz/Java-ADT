@@ -80,22 +80,20 @@ If the following error occurs when running client:
 
 a）Click Exit.
 
-b）Use set_ports.bat file which you can find it and enter the port number sequentially
-
-请执行 set_ports.bat 文件，依次输入端口号。
+b）Use [set_ports.bat](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource) and enter port number sequentially.
 
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/64f7fd71-6e09-40c8-9167-dd707faaa764)
 
-c）重新启动客户端。
+c）Restart client.
 
-**技术文档**
+**Official Document**
 -----------------------------------
-- 产品文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
-- 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
+- Product：[Tutorial](https://feisuanyz.com/support/helpCenter/)
+- Video：[Video](https://feisuanyz.com/shortVideo/list/)
 
-**交流互动**
+**Community**
 -----------------------------------
-- 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
+- Wechat Group：**Scan QR Code Below** <br><br>
 ![互动交流群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
 - 问题反馈：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
 - 参与开源：欢迎加入SoFlu软件机器人开源团队，共同进步！
