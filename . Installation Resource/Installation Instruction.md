@@ -41,12 +41,12 @@ c）Restart client.
 
 **Official Document**
 -----------------------------------
-- Product：[Tutorial](https://feisuanyz.com/support/helpCenter/)
-- Video：[Video](https://feisuanyz.com/shortVideo/list/)
+- Product：[Text Tutorial](https://feisuanyz.com/support/helpCenter/)
+- Video：[Video Tutorial](https://feisuanyz.com/shortVideo/list/)
 
 **Community**
 -----------------------------------
-- Wechat Group：**Scan QR Code Below** <br><br>
+- Join us in Wechat Group
 ![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
 - Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
 - Welcome to SoFlu community to make Java better!
