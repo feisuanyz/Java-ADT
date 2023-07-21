@@ -8,7 +8,7 @@ Installation Environment：
 | Category       | Requirements         |
 |----------|----------------|
 | Operating System    | Windows 7 and above 64-bit |
-| CPU      | i5 or above(Recommended )   |
+| CPU      | i5 or above(Recommended)   |
 | RAM     |  8 GB or above(Recommended)    |
 | Disk | 5 GB or above    |
 
