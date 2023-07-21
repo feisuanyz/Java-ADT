@@ -94,6 +94,6 @@ c）Restart client.
 **Community**
 -----------------------------------
 - Wechat Group：**Scan QR Code Below** <br><br>
-![互动交流群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
-- 问题反馈：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
-- 参与开源：欢迎加入SoFlu软件机器人开源团队，共同进步！
+![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
+- Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
+- Welcome to SoFlu community to make Java better!
