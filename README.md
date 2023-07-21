@@ -88,7 +88,6 @@ c）重新启动客户端。
 
 **技术文档**
 -----------------------------------
-- 社区版入口：请下载[本地客户端](https://main.feisuanyz.com:8080/flow-community/feisuanyz-local-engine.zip)，安装本地客户端的操作指导，请参见(https://feisuanyz.com/support/helpCenter/ 全自动开发平台 / 快速入门 / 1 注册账户 / 1.1 安装本地客户端)
 - 产品文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
 - 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
 
