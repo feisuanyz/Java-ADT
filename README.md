@@ -19,7 +19,7 @@ Feature 1：WEBIDE
 
 #### a）Java FuncGPT
 
-Describe Java function requirements using natural language and generate high-quality, readable code in real-time. The generated code can be directly copied to IDEA or imported into the Java ADT's function library with one click.
+Describe Java function requirements using natural language and generate high-quality, readable code in real-time. The generated code can be directly copied to IDEA or imported into Java ADT's function library with one click.
 
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/44a841b3-c3d6-4130-9ff6-1d94825cac86)
 
