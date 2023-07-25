@@ -12,7 +12,7 @@ Installation Environment：
 | RAM     |  8 GB or above(Recommended)    |
 | Disk | 5 GB or above    |
 
-For previous client versions and installation instructions, please refer to [Installation Resource](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource)
+For previous client versions and installation instructions, please refer to [Installation Resource](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource).
 
 Feature 1：WEBIDE
 -----------------------------------
