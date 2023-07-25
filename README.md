@@ -1,7 +1,7 @@
 Java Automated Development Tool(Java ADT)
 -----------------------------------
 
-Latest Client：[For Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe)。
+Client Download：[For Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe).
 
 Installation Environment：
 
