@@ -49,3 +49,31 @@ b）Use [set_ports.bat](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Inst
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/64f7fd71-6e09-40c8-9167-dd707faaa764)
 
 c）Restart client.
+
+#### 2. Malicious Software Error in MacOS
+
+If you encounter an error when running client, indicating the presence of malicious software:
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/edfa4aa0-29e5-4267-86d3-13b3fbc3ac82)
+
+a）Open System Preferences.
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/2fba74fe-c2ea-4fa9-85a9-ca731772a1f4)
+
+b） Go to "Security & Privacy".
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/c89264f1-8ce4-4be4-af4f-30105b62509d)
+
+c）In the Security & Privacy window that appears, click on "General" tab.
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/ad8c1c10-75c1-4216-9aad-22524650dee0)
+
+d）You'll see a notice saying "Blocked from opening because it is from an unidentified developer," click the "Open Anyway" button.
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/81f4c02a-226f-48a1-b0e1-aad55075bb15)
+
+e）A confirmation dialog will appear again. Click "Open" button.
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/25b8962d-95ed-4b55-90d7-c5bebffb71b1)
+
+Enter the administrator password and then click "OK" button. You can now use Java-Adt now.
