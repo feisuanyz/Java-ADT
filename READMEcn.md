@@ -1,7 +1,7 @@
 Java全自动开发工具
 -----------------------------------
 
-# 客户端下载：[Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe) | [MacOS](https://download.feisuanyz.com/release-mac-java/SoFlu_Java_Setup_latest.dmg)
+# 客户端下载地址：[Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe) | [MacOS](https://download.feisuanyz.com/release-mac-java/SoFlu_Java_Setup_latest.dmg)
 
 安装环境配置要求：
 
