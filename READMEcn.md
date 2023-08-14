@@ -1,14 +1,13 @@
 Java全自动开发工具
 -----------------------------------
-语言：[中文](https://github.com/feisuanyz/Java-ADT/blob/main/READMEcn.md) | [English](https://github.com/feisuanyz/Java-ADT/blob/main/README.md)
 
-最新版本客户端：[点此下载](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe)。
+# 客户端下载：[Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe) | [MacOS](https://download.feisuanyz.com/release-mac-java/SoFlu_Java_Setup_latest.dmg)
 
 安装环境配置要求：
 
 | 类别       | 要求             |
 |----------|----------------|
-| 操作系统     | Windows 10 64位 |
+| 操作系统     | Windows7及以上 64位或MacOS |
 | CPU      | 推荐 i5 以上       |
 | 运行内存     | 推荐 8 G 以上      |
 | 软件安装磁盘容量 | 至少5 GB 容量以上    |
@@ -86,6 +85,34 @@ b）请执行 set_ports.bat 文件，依次输入端口号。
 ![image](https://github.com/feisuanyz/Java-Adp/assets/79617492/64f7fd71-6e09-40c8-9167-dd707faaa764)
 
 c）重新启动客户端。
+
+#### 2. Mac版启动错误
+
+Mac版启动提示包含恶意软件：
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/314cfbab-a1f1-4264-a77b-f83641d5d9d3)
+
+a）打开系统偏好设置。
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/3b94a244-f40f-4bb8-8bbe-8b5804463b0f)
+
+b）进入“安全和隐私”。
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/f694c746-1116-46f9-8c8e-8752819b63d8)
+
+c）弹出安全性和稳私窗口，点击进入“通用”选项卡界面。
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/6891fbbb-eea2-4bfe-a11a-b91f1fc64a2f)
+
+d）在通用界面，在已阻止使用，因为来自身份不明的开发者，点击【仍要打开】按钮。
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/43f9b2a9-86c4-4f17-ac09-b3d55149f5ae)
+
+e）再次弹出确认对话框，点击【打开】按钮。
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/af4314ec-7528-4ae5-aec0-42d3d7618f1e)
+
+此时弹出输入管理员密码，输入后点击【好】按钮。现在就可以正常使用软件了。
 
 **技术文档**
 -----------------------------------
