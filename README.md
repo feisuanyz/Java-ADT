@@ -27,8 +27,8 @@ Starting from August 16th, 2023, anyone who downloads Java ADT and uses Java Fun
 | Rank  | Prize                                   | Quantity  |
 |-----|--------------------------------------|-----|
 | First Prize | Beats Flex Beatsx In-ear Bluetooth Sports Earphones (worth 599 RMB) | 3 winners |
-| 二等奖 | Huawei Band 8 (worth 269 RMB)                       | 10 winners |
-| 三等奖 | Mobile Phone Credit（worth 50 RMB）     | 20 winners |
+| Second Prize | Huawei Band 8 (worth 269 RMB)                       | 10 winners |
+| Third Prize | Mobile Phone Credit（worth 50 RMB）     | 20 winners |
 
 #### Steps to Participate
 
