@@ -15,6 +15,41 @@ Installation Environment：
 
 For previous client versions and installation instructions, please refer to [Installation Resource](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource).
 
+Limited-time Lottery Event
+-----------------------------------
+
+Duration: August 16th to August 25th, 2023
+
+#### Rules
+
+Starting from August 16th, 2023, anyone who downloads Java ADT and uses Java FuncGPT will be eligible to participate in the Lottery Event.
+
+| Rank  | Prize                                   | Quantity  |
+|-----|--------------------------------------|-----|
+| First Prize | Beats Flex Beatsx In-ear Bluetooth Sports Earphones (worth 599 RMB) | 3 winners |
+| 二等奖 | Huawei Band 8 (worth 269 RMB)                       | 10 winners |
+| 三等奖 | Mobile Phone Credit（worth 50 RMB）     | 20 winners |
+
+#### Steps to Participate
+
+a) Download and register Java ADT.
+
+b) Enter Java FuncGPT and use it three times.
+
+Path: [Java ADT] -> [Function Library Center] -> [Write Function] -> [AI-generated Code].
+
+c) Add Feisuan's WeChat Customer Service called Xiao Zhi.
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/a5d86f9a-2155-4f9c-b072-8db02ba18cc3)
+
+d）Take a screenshot of the usage frequency and send it to Xiao Zhi along with your registered phone number (as shown in the image below).
+
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/4cfef88f-5976-436c-b01d-9d9b4103c734)
+
+e）Notification of Winning Results
+
+On August 25th, the winning results will be notified by WeChat from Xiao Zhi, and prizes will be shipped within 5 working days after the announcement of winning results.
+
 Feature 1：WEBIDE
 -----------------------------------
 
