@@ -1,8 +1,8 @@
-Java Automated Development Tool(Java ADT)
+![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/b0e9bee1-e395-45a3-9410-df5ab28ed0aa)Java Automated Development Tool(Java ADT)
 -----------------------------------
 Language: [English](https://github.com/feisuanyz/Java-ADT/blob/main/README.md) | [中文](https://github.com/feisuanyz/Java-ADT/blob/main/READMEcn.md)
 
-# Client Download：[Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe) | [MacOS](https://download.feisuanyz.com/release-mac-java/SoFlu_Java_Setup_latest.dmg)
+# Client Download：[Windows](https://suo.im/aSFpM) | [MacOS](https://suo.im/cnuow)
 
 Installation Environment：
 
