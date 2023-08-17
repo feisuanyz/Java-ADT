@@ -1,6 +1,8 @@
 Java全自动开发工具
 -----------------------------------
 
+语言: [中文](https://github.com/feisuanyz/Java-ADT/blob/main/READMEcn.md) | [English](https://github.com/feisuanyz/Java-ADT/blob/main/README.md)
+
 # 客户端下载地址：[Windows](https://download.feisuanyz.com/release-java/SoFlu_Java_Setup_latest.exe) | [MacOS](https://download.feisuanyz.com/release-mac-java/SoFlu_Java_Setup_latest.dmg)
 
 安装环境配置要求：
