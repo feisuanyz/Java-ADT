@@ -1,4 +1,4 @@
-![image](https://github.com/feisuanyz/Java-ADT/assets/79617492/b0e9bee1-e395-45a3-9410-df5ab28ed0aa)Java Automated Development Tool(Java ADT)
+Java Automated Development Tool(Java ADT)
 -----------------------------------
 Language: [English](https://github.com/feisuanyz/Java-ADT/blob/main/README.md) | [中文](https://github.com/feisuanyz/Java-ADT/blob/main/READMEcn.md)
 
