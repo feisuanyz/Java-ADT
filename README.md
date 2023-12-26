@@ -123,6 +123,6 @@ Enter the administrator password and then click "OK" button. You can now use Jav
 **Community**
 -----------------------------------
 - Join us in Wechat Group
-![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
+![WechatGroup](https://github.com/feisuanyz/Java-ADT/blob/main/images/wechatqrcode.png) <br><br>
 - Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
 - Welcome to SoFlu community to make Java better!
